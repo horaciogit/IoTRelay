@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h>
+﻿#include <ESP8266WiFi.h>
 #include <WiFiManager.h> // https://github.com/tzapu/WiFiManager
 
 #include <PubSubClient.h>
@@ -8,8 +8,8 @@ const char* password = "";
 
 const char *mqtt_server = "35.173.27.127";
 const int mqtt_port = 1883;
-const char *mqtt_user = "letto";
-const char *mqtt_pass = "loop333";
+const char *mqtt_user = "XXX";
+const char *mqtt_pass = "XXX";
 
 WiFiClient espClient;
 PubSubClient client(espClient);

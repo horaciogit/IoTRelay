@@ -4,7 +4,7 @@ Proyecto IoT para comandar el encendido y apagado de bombas, luces, etc., a trav
 ESP8266 con relay (modificacion dispositivo comercial) <br>
 Servidor web Amazon Lightsail <br>
 Broker  EMQX, <br>
-Base de datos MySql 
+Base de datos MySql, registro de usuarios, autenticación ACL
 
 
 Tambien disponible con AWS IOT CORE 
@@ -15,7 +15,7 @@ Tambien disponible con AWS IOT CORE
 
 ## Configuracion credenciales wifi en Dispositivo
 * pulsar boton SET WIFI
-* con un celular concetarse a la red "ConectarRelayAP"
+* con un celular conectarse a la red "ConectarRelayAP"
 * seleccione su wifi e ingrese contraseña
 * El dispositivo se reseteara y conecta automaticamente al servidor MQTT
 * Ingresar a la aplicacion web
