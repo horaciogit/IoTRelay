@@ -37,7 +37,7 @@ Proyecto El polo incuba - Gob. La Pampa
 * Los datos deben estar actualizados. Debe existirreferencias de la fecha de confección o de la fecha de última actualización.
 * Por ejemplo: Información de deuda sin una referencia en cuanto a la fecha de actualización.
 
-<img src="../_src/assets/actualizacion.jpg"  height="250">
+<img src="/src/assets/actualizacion.jpg"  height="250">
 
 ### Completitud
 
