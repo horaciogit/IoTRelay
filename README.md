@@ -1,10 +1,7 @@
 ﻿# IoTRelay
 Proyecto IoT para comandar el encendido y apagado de bombas, luces, etc., a traves de una aplicacion web. Tambien muestra  el estado de los dispositivos.
 ## Tecnologias: 
-ESP8266 con relay (modificacion dispositivo comercial)
-Servidor web Amazon Lightsail
-Broker MQTT Emqx
-Base de datos MySql
+ESP8266 con relay (modificacion dispositivo comercial), Servidor web Amazon Lightsail, Broker MQTT Emqx, base de datos MySql
 
 Tambien disponible con AWS IOT CORE 
 
@@ -20,7 +17,8 @@ Tambien disponible con AWS IOT CORE
 
 <img src="/assets/Menu-wifimanager.png"  height="250">
 
-
+## Panel de control 
+<img src="/assets/panel.png"  height="250">
 
 
 
