@@ -17,7 +17,10 @@ Tambien disponible con AWS IOT CORE
 * pulsar boton SET WIFI
 * con un celular conectarse a la red "ConectarRelayAP"
 * seleccione su wifi e ingrese contraseña
-* El dispositivo se reseteara y conecta automaticamente al servidor MQTT
+* El dispositivo se conectará automaticamente al servidor web en segundos encendiendo el led azul.
+
+<img src="/assets/plaquita.jpg"  height="250"> <br> 
+
 * Ingresar a la aplicacion web
 * Listo! ya puede controlar sus dispositivos desde cualquier parte del mundo.
 
