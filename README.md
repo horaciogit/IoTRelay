@@ -1,7 +1,7 @@
 ﻿# IoTRelay
 Proyecto El polo incuba - Gob. La Pampa
 
-<img src="../_src/assets/actualizacion.jpg"  height="250">
+<img src="/assets/actualizacion.jpg"  height="250">
 
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
@@ -37,14 +37,14 @@ Proyecto El polo incuba - Gob. La Pampa
 * Los datos deben estar actualizados. Debe existirreferencias de la fecha de confección o de la fecha de última actualización.
 * Por ejemplo: Información de deuda sin una referencia en cuanto a la fecha de actualización.
 
-<img src="/src/assets/actualizacion.jpg"  height="250">
+<img src="assets/actualizacion.jpg"  height="250">
 
 ### Completitud
 
 * Los datos deben estar completos. Puede parecer obvio pero es una de las situaciones más habituales.
 * Por Ejemplo: tablas con datos filiatorios y de contacto con campos vacíos aleatoriamente.
 
-<img src="../_src/assets/completitud.jpg"  height="250">
+<img src="/assets/completitud.jpg"  height="250">
 
 ### Fiabilidad
 
