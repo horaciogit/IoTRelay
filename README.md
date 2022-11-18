@@ -5,7 +5,7 @@ ESP8266 con relay (modificacion dispositivo comercial), Servidor web Amazon Ligh
 
 Tambien disponible con AWS IOT CORE 
 
-- [Página de prueba](controlpampa.ml)  
+- [Página de prueba: ](https://controlpampa.ml)  <br> 
     Registre usuario y contraseña con datos ficticios.
 
 
@@ -18,7 +18,10 @@ Tambien disponible con AWS IOT CORE
 <img src="/assets/Menu-wifimanager.png"  height="250">
 
 ## Panel de control 
+
 <img src="/assets/panel.png"  height="250">
+
+<img src="/assets/devices.png"  height="250">
 
 
 
